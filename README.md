@@ -1,3 +1,7 @@
+USS Forrest Sherman
+![USS Forrest Sherman](https://github.com/soroushtou/Scale-Models/blob/main/9.jpg)
+![USS Forrest Sherman](https://github.com/soroushtou/Scale-Models/blob/main/10.jpg)
+
 USS New Jersey
 ![USS New Jersey](https://github.com/soroushtou/Scale-Models/blob/main/8.jpg)
 
