@@ -1,3 +1,12 @@
+USS Kitty Hawk
+![USS Kitty Hawk](https://github.com/soroushtou/Scale-Models/blob/main/13.jpg)
+![USS Kitty Hawk](https://github.com/soroushtou/Scale-Models/blob/main/14.jpg)
+
+
+HMS Hood
+![HMS Hood](https://github.com/soroushtou/Scale-Models/blob/main/13.jpg)
+
+
 USS Wasp, Assualt Carrier
 ![USS Wasp](https://github.com/soroushtou/Scale-Models/blob/main/11.jpg)
 ![USS Wasp](https://github.com/soroushtou/Scale-Models/blob/main/12.jpg)
