@@ -1,5 +1,5 @@
 USS Kitty Hawk
-![USS Kitty Hawk](https://github.com/soroushtou/Scale-Models/blob/main/13.jpg)
+![USS Kitty Hawk](https://github.com/soroushtou/Scale-Models/blob/main/15.jpg)
 ![USS Kitty Hawk](https://github.com/soroushtou/Scale-Models/blob/main/14.jpg)
 
 
